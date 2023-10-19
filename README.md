@@ -31,14 +31,12 @@ Member 3
 ## Features
 
 - User-friendly fitness mobile app for browsing and purchasing supplyments and Excercises according to your Expirecnce and BMI and Helthy Diet plans ,
-- Detailed product descriptions and availability status.
-- Secure and reliable payment options.
-- CRM system for efficient customer relationship management.
-- Centralized customer data, including contact information and purchase history.
-- Personalized recommendations and targeted marketing campaigns.
-- Order management with real-time order status tracking.
-- Customer support with communication history for faster issue resolution.
-- Analytics and reporting capabilities for data-driven decision-making.
+- Exercise Recommendations: Based on the user's experience level and BMI (Body Mass Index), the app provides tailored exercise routines and workout plans. Whether you're a beginner or an advanced athlete, you'll find exercises suitable for your fitness journey.
+- Healthy Diet Plans: CrossFit offers a range of healthy diet plans, taking into account individual preferences and dietary requirements. Users can access well-balanced meal plans to complement their fitness goals.
+- Supplement Shop: The app includes a supplement store where users can explore and purchase a wide variety of fitness supplements and nutritional products, all at their fingertips.
+- Supplement Shop: The app includes a supplement store where users can explore and purchase a wide variety of fitness supplements and nutritional products, all at their fingertips.
+- ToDo List
+- Social Community: Connect with a like-minded fitness community within the app. Share your achievements, seek motivation, and exchange tips and advice with fellow fitness enthusiasts.
 
 ## Documentation
 
