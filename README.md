@@ -23,8 +23,7 @@ Member 3
 
 ## Features
 
-- User-friendly e-commerce website for browsing and purchasing clothing and fashion items.
-- Advanced search functionality based on product names, brands, categories, and keywords.
+- User-friendly fitness mobile app for browsing and purchasing supplyments and Excercises according to your Expirecnce and BMI and Helthy Diet plans ,
 - Detailed product descriptions and availability status.
 - Secure and reliable payment options.
 - CRM system for efficient customer relationship management.
