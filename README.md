@@ -1,6 +1,11 @@
 # CrossFit
 A mobile app tailored for fitness enthusiasts, enabling them to exercise from the comfort of their homes and monitor their fitness journey.
 
+![Workout Plan Detail](https://github.com/yasiru2077/CrossFit/assets/96358931/e10d0956-0e13-4316-be1f-acc209c43a3c)
+![breakfast](https://github.com/yasiru2077/CrossFit/assets/96358931/e268025c-6de1-43b2-9153-9eebe757de4f)
+![Splash](https://github.com/yasiru2077/CrossFit/assets/96358931/866b943c-7db8-4d77-a563-d355f1894692)
+![Login](https://github.com/yasiru2077/CrossFit/assets/96358931/b4bf9fe9-92b2-43ae-8dd0-e0132af3f6e5)
+![Online Store](https://github.com/yasiru2077/CrossFit/assets/96358931/4346382b-c6a8-43d4-96e2-fcf62748678c)
 
 
 Group 05
